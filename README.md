@@ -20,4 +20,4 @@ namespacing could be made to look much neater, for instance.
 
 #### Usage
 `#define SE_OPENGL` if you are using OpenGL, then 
-`#include "se_3dmath.h"`.
+`#include "3Dmath.h"`.
