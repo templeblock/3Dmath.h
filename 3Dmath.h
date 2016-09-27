@@ -1,6 +1,6 @@
 /*
  * 3Dmath.h: basic 3D math utilities in C                          v0.01
- * Steven Skomski (skomski.org)
+ * Elliott Skomski (skomski.org)
  * 
  * DESCRIPTION
  * You should probably not use this for production work, and instead use
